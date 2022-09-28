@@ -4,7 +4,6 @@ I'm a software engineer from Saint Petersburg, Russia. I like high-scalable back
 
  - I've worked with Golang, PHP, Bash and Python. I'm keen on Golang at the moment.
  - I usу Linux for work and home needs since 2011
- - I work at [Alyce](https://www.alyce.com/) on core services and amazing new things in RnD team
  - My [English](https://ru.linkedin.com/in/toporovvv) and [Russian](https://spb.hh.ru/resume/54a5680aff01aa990b0039ed1f6d7651394542) CVs
  - My favorite IT books are [Code](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software) by Charles Petzold, [The Passionate Programmer](https://pragprog.com/titles/cfcar2/the-passionate-programmer-2nd-edition/) by Chad Fowler
 
