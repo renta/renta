@@ -9,7 +9,7 @@ I'm a software engineer from Saint Petersburg, Russia. I like high-scalable back
 
 ### My personal life
 
- - I have a wife, two sons and a cat
+ - I have a wife, two sons and cats
  - I like music, hiking, computer games and classic Russian literature
  - My physical activities include jogging and pull ups
  - You can write me a letter on toporovvv@gmail.com
